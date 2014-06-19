@@ -30,5 +30,20 @@
     <string name="easy_label">Easy</string>
 	<string name="medium_label">Medium</string> 
 	<string name="hard_label">Hard</string>
+	
+	<string name="game_title">Game</string>
+	<string name="no_moves_label">No moves</string> 
+	<string name="keypad_title">Keypad</string>
+	
+	<string name="one">1</string>
+	<string name="two">2</string>
+	<string name="three">3</string>
+	<string name="four">4</string>
+	<string name="five">5</string>
+	<string name="six">6</string>
+	<string name="seven">7</string>
+	<string name="eight">8</string>
+	<string name="nine">9</string>
+	
 
 </resources>

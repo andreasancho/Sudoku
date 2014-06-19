@@ -14,6 +14,7 @@
 	android:paddingLeft="20dip" 
 	android:paddingRight="20dip" > 
 		<TextView
+		    android:id="@+id/main_menu_title" 
 		    android:text="@string/main_title" 
 			android:layout_height="wrap_content" 
 			android:layout_width="wrap_content" 
@@ -22,6 +23,7 @@
 			android:textColor="@color/text_menu"
 			android:textStyle="bold" />
 		<TextView
+		    android:id="@+id/main_menu_subtitle" 
 			android:text="@string/main_subtitle" 
 			android:layout_height="wrap_content" 
 			android:layout_width="wrap_content" 
